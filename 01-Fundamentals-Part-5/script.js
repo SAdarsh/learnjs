@@ -1,6 +1,6 @@
 const now = 2037; // assignment
-const ageJonas = now - 1991; // substraction
-const ageSarah = now - 2018; // substraction
+const ageJonas = now - 1991; // subtraction
+const ageSarah = now - 2018; // subtraction
 console.log(ageJonas, ageSarah);
 
 console.log(ageJonas * 2, ageJonas / 10, 2 ** 3); // multiplication, division, and powerof
@@ -16,5 +16,5 @@ x++; // x = x + 4
 x--; // x = x - 4
 console.log(x)
 
-console.log(ageJonas > ageSarah); // comparision operator; >, <, <=, >=
+console.log(ageJonas > ageSarah); // comparision operator : >, <, <=, >=
 console.log(ageSarah >= 18); 
