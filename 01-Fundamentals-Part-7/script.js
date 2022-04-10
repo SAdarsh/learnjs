@@ -18,4 +18,4 @@ lines'); // cumbersome with "" and ''
 console.log(`string
 with 
 multiple 
-lines`); // template literal `` to the rescue 
+lines`); // template literal `` to the rescue
